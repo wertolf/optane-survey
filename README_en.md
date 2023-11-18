@@ -4,6 +4,7 @@
 
 ## generic
 
+* [Intel Optane DC Persistent Memory Module (PMM)](https://www.storagereview.com/news/intel-optane-dc-persistent-memory-module-pmm)
 * [An Empirical Guide to the Behavior and Use of Scalable Persistent Memory](https://www.usenix.org/conference/fast20/presentation/yang)
 
 ## production series
@@ -20,6 +21,9 @@ questions:
 * What's the difference between `Intel® Optane™ Memory` and `Intel® Optane™ Persistent Memory`?
 * When are these products published respectively?
 * Why did Intel drop the Optane production line?
+
+Optane SSD:
+...
 
 ### Intel® Optane™ Persistent Memory 100 Series - 128GB Module
 
