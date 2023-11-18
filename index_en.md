@@ -1,7 +1,5 @@
 # A Survey On Intel® Optane™ Persistent Memory
 
-(add English references in this file)
-
 ## generic
 
 * [Intel Optane DC Persistent Memory Module (PMM)](https://www.storagereview.com/news/intel-optane-dc-persistent-memory-module-pmm)
